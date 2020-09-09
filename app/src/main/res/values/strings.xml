@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Battery Alarm</string>
+    <string name="set_battery">Set Battery</string>
+    <string name="battery_percentage_is">Battery Percentage is:</string>
+</resources>
